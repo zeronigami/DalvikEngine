@@ -12,8 +12,4 @@ A module use to enhances the Android runtime environment by optimizing Dalvik an
 - **Dalvik:** Dalvik is Android's original process virtual machine that executes `.dex` (Dalvik Executable) bytecode. It was designed to run efficiently on devices with limited memory and CPU resources.  
 - **ART (Android Runtime):** ART is the successor to Dalvik, replacing just-in-time (JIT) compilation with ahead-of-time (AOT) compilation for faster app execution and better memory management.  
 
-<div align="center">
-  <img width="160" src="https://github.com/kanaodnd/kanaokturu/blob/main/0548dd4afa665874c0c568fe5c189bda.gif" alt="Stellar Demo">
-</div>
-
 This module tweaks the runtime environment to improve speed, memory usage, and overall system performance on Android devices
