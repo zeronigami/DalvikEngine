@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Dalvik Engine</h1>
 </div>
-**A module to ehances the Android runtime environment by optimizing Dalvik and ART performance.**
+A module use to enhances the Android runtime environment by optimizing Dalvik and ART performance.
 
 <div align="center">
 <img src="https://github.com/zeronigami/zeronigami/blob/main/7jw8t3.gif" >
