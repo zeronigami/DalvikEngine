@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="hhttps://github.com/zeronigami/zeronigami/blob/main/7jw8t3.gif" alt="zero">
+<img src="https://github.com/zeronigami/zeronigami/blob/main/7jw8t3.gif" >
 </div>
 
  ## About Dalvik/ART
