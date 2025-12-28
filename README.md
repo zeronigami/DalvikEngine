@@ -2,7 +2,7 @@
 <h1>Dalvik Engine</h1>
 </div>
 <div align="center">
-<h4>A module to ehances the Android runtime environment by optimizing Dalvik and ART performance.</h4>
+<h4>**A module to ehances the Android runtime environment by optimizing Dalvik and ART performance.**</h4>
 </div>
 
 <div align="center">
