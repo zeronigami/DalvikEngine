@@ -1,0 +1,6 @@
+id=dalvik.engine
+name=Dalvik Engine
+version=1.0 - Zetsumyōna
+versionCode=10000
+author=zeronigami
+description=Pure Dalvik/ART optimization module.
